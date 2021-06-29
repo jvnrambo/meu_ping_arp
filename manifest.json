@@ -1,0 +1,12 @@
+{
+  "domain": "meu_ping_arp",
+  "name": "meu_ping_arp",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jvnrambo/meu_ping_arp",
+  "issue_tracker": "https://github.com/jvnrambo/meu_ping_arp/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@jvnrambo"
+  ]
+}
